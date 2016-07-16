@@ -6,6 +6,8 @@ gem 'rails', '4.2.6'
 
 gem 'rails-api'
 
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw]
+
 # Use sqlite3 as the database for Active Record
 gem 'mysql2'
 # Use SCSS for stylesheets
